@@ -1,4 +1,4 @@
-# Hello everyone! I'm Diego - aka [YeyoM]
+# Hello everyone! I'm Diego - aka YeyoM
 
 ## I'm a Javascript developer based on Mexico
 - I'm currently studying computer science
@@ -24,6 +24,7 @@
 
 <br />
 
+## My stats:
 <img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
 <br />
 
