@@ -12,7 +12,7 @@
 <br />
 
 ## My current Stack:
-
+<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
 
 <br />
 <br />
