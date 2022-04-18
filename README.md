@@ -8,9 +8,6 @@ Apart from coding, you will normally find me playing basketball or maybe playing
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
 <br />
 
