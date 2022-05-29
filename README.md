@@ -1,5 +1,5 @@
 # Hello everyone! I'm Diego - aka YeyoM
-My name is Diego and I’m a software engineer focused on web development. I started coding back in 2019 when I was in high school. I’m currently coursing 2nd semester in college. I’m studying Computer Science and my favorite course is “Computational Structures” where I master my code abilities with C++.
+My name is Diego and I’m a Compruter Science student focused on web development. I started coding back in 2019 when I was in high school. I’m currently coursing 2nd semester in college and my favorite course is “Computational Structures” where I master my code abilities with C++.
 
 By now, I’m looking for my first Internship or my first approach with the IT work field. My main tech core is based mostly in JavaScript and all around with web development and I’m passionate about building great and excellent digital products that live on the internet.
 
