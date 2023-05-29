@@ -1,4 +1,4 @@
-## Hello everyone! I'm Yeyo
+## Hello everyone! I'm Yeyo :octocat:
 
 I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguascalientes, Mex. I have a strong passion for software engineering and all the exciting aspects that come with it. Throughout my academic journey, I have developed a keen interest in frontend development and ensuring websites are reliable and accessible for all users.
 <br />
