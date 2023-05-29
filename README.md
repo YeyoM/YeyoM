@@ -1,6 +1,6 @@
-# Hello everyone! I'm Diego - aka YeyoM
+## Hello everyone! I'm Yeyo
 
-Computer science undergraduate with experience in web full stack development and a huge interest in artificial intelligence. Looking for real world experience where I can grow and learn from more experienced developers while sharing my fresh ideas to collaborate and build software solutions.
+I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguascalientes, Mex. I have a strong passion for software engineering and all the exciting aspects that come with it. Throughout my academic journey, I have developed a keen interest in frontend development and ensuring websites are reliable and accessible for all users.
 
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
