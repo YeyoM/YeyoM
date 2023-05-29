@@ -10,8 +10,5 @@ I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguasca
 <br />
 <br />
 
-[<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [twitter]: https://twitter.com/YeyoMoreno24
 [linkedin]: https://www.linkedin.com/in/diego-moreno-05a158219/
