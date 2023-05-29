@@ -8,10 +8,10 @@ I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguasca
 ### Yes, I do code...
 <img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
 <br />
+<br />
 
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
 [twitter]: https://twitter.com/YeyoMoreno24
 [linkedin]: https://www.linkedin.com/in/diego-moreno-05a158219/
