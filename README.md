@@ -1,14 +1,11 @@
 ## Hello everyone! I'm Yeyo
 
 I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguascalientes, Mex. I have a strong passion for software engineering and all the exciting aspects that come with it. Throughout my academic journey, I have developed a keen interest in frontend development and ensuring websites are reliable and accessible for all users.
+<br />
 
-
+In addition to my technical skills, I value collaboration and effective communication within development teams. I believe in the power of teamwork and appreciate the diverse perspectives that each team member brings to the table. 
 <br />
 
 ### Yes, I do code...
 <img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
 <br />
-<br />
-
-[twitter]: https://twitter.com/YeyoMoreno24
-[linkedin]: https://www.linkedin.com/in/diego-moreno-05a158219/
