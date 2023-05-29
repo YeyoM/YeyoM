@@ -5,16 +5,12 @@ I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguasca
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YeyoM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
-<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
 
 <br />
 
-## My stats:
+### Yes, I do code...
 <img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
 <br />
 
 [twitter]: https://twitter.com/YeyoMoreno24
 [linkedin]: https://www.linkedin.com/in/diego-moreno-05a158219/
-[instagram]: https://www.instagram.com/yeyo.moreno/
