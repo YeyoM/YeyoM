@@ -8,6 +8,7 @@ In addition to my technical skills, I value collaboration and effective communic
 
 *  I'm a current Major League Hacking Fellow, Site Reliability Engineer Track.
 *  I love working with React and Next
+*  One of my favorite hobbies is playing guitar
 
 ### Yes, I do code...
 <img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
