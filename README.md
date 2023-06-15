@@ -15,5 +15,5 @@ In addition to my technical skills, I value collaboration and effective communic
 
 <br />
 ### Cool people
-![Cool People](https://github.com/YeyoM/YeyoM/assets/76639199/783a56bc-aaf5-46a0-aaab-ee4054e30f61)
+
 
