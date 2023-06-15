@@ -10,12 +10,27 @@ In addition to my technical skills, I value collaboration and effective communic
 *  I love working with React and Next
 *  One of my favorite hobbies is playing guitar
 
-### Yes, I do code...
-<img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
-<br />
-<br />
 <br />
 
-### Cool people
+## Cool people
+
+<img
+  src="images/Cool_People.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px; padding: 10px">
+<img
+  src="images/Cool_People2.JPG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px; padding: 10px">
+<img
+  src="images/Cool_People3.JPG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px; padding: 10px">
+
+## Yes, I do code...
+<img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
