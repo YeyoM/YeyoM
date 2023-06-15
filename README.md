@@ -12,21 +12,11 @@ In addition to my technical skills, I value collaboration and effective communic
 
 ## Cool people
 
-<img
-  src="images/Cool_People.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; padding: 10px">
-<img
-  src="images/Cool_People2.JPG"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; padding: 10px">
-<img
-  src="images/Cool_People3.JPG"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; padding: 10px">
+<div align="center">
+  <img alt="GOLF Community" src="images/Cool_People.jpg" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="GitHub Campus Experts" src="images/Cool_People2.JPG" width="40%">
+</div>
 
 
 ## Yes, I do code...
