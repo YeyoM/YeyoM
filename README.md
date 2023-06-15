@@ -10,8 +10,6 @@ In addition to my technical skills, I value collaboration and effective communic
 *  I love working with React and Next
 *  One of my favorite hobbies is playing guitar
 
-<br />
-
 ## Cool people
 
 <img
@@ -21,6 +19,11 @@ In addition to my technical skills, I value collaboration and effective communic
   style="display: inline-block; margin: 0 auto; max-width: 200px; padding: 10px">
 <img
   src="images/Cool_People2.JPG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 200px; padding: 10px">
+<img
+  src="images/Cool_People3.JPG"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 200px; padding: 10px">
