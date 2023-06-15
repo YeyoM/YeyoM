@@ -12,6 +12,7 @@ In addition to my technical skills, I value collaboration and effective communic
 
 ### Yes, I do code...
 <img align="left" alt="YeyoM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YeyoM&show_icons=true&hide_border=true&theme=tokyonight" />
+<br />
 
 ### Cool people
 
