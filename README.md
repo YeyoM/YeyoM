@@ -6,7 +6,7 @@ I'm Diego Moreno, a computer science student at Universidad Autónoma de Aguasca
 In addition to my technical skills, I value collaboration and effective communication within development teams. I believe in the power of teamwork and appreciate the diverse perspectives that each team member brings to the table. Some cool facts about me:
 <br />
 
-*  I'm a current Major League Hacking Fellow, Production Engineer Track.
+*  I'm a current Major League Hacking Fellow, Production Engineer Track, powered by META
 *  I love working with React and Next
 *  One of my favorite hobbies is playing guitar
 
