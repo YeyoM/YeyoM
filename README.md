@@ -13,7 +13,7 @@ In addition to my technical skills, I value collaboration and effective communic
 ## Cool people
 
 <div align="center">
-  <img alt="GOLF Community" src="images/Cool_People.jpg" width="40%">
+  <img alt="GOLF Community" src="images/cool_people.webp" width="40%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="GitHub Campus Experts" src="images/Cool_People2.JPG" width="40%">
 </div>
